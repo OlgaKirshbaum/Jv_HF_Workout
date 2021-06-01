@@ -34,4 +34,6 @@ Head First. Программирование для Android / Гриффитс �
 ------------------------------
 Изображение приложения:
 
+![Screenshot_1622538094](https://user-images.githubusercontent.com/77355204/120298370-b32e2a80-c2d2-11eb-8c15-f8320c2659cf.png)
+![Screenshot_1622538103](https://user-images.githubusercontent.com/77355204/120298373-b3c6c100-c2d2-11eb-9748-d52f81b415e2.png)
 
